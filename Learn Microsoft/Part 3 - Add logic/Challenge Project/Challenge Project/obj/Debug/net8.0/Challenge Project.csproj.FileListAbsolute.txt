@@ -1,0 +1,15 @@
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Challenge Project\Challenge Project\bin\Debug\net8.0\Challenge Project.exe
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Challenge Project\Challenge Project\bin\Debug\net8.0\Challenge Project.deps.json
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Challenge Project\Challenge Project\bin\Debug\net8.0\Challenge Project.runtimeconfig.json
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Challenge Project\Challenge Project\bin\Debug\net8.0\Challenge Project.dll
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Challenge Project\Challenge Project\bin\Debug\net8.0\Challenge Project.pdb
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Challenge Project\Challenge Project\obj\Debug\net8.0\Challenge Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Challenge Project\Challenge Project\obj\Debug\net8.0\Challenge Project.AssemblyInfoInputs.cache
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Challenge Project\Challenge Project\obj\Debug\net8.0\Challenge Project.AssemblyInfo.cs
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Challenge Project\Challenge Project\obj\Debug\net8.0\Challenge Project.csproj.CoreCompileInputs.cache
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Challenge Project\Challenge Project\obj\Debug\net8.0\Challenge Project.sourcelink.json
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Challenge Project\Challenge Project\obj\Debug\net8.0\Challenge Project.dll
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Challenge Project\Challenge Project\obj\Debug\net8.0\refint\Challenge Project.dll
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Challenge Project\Challenge Project\obj\Debug\net8.0\Challenge Project.pdb
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Challenge Project\Challenge Project\obj\Debug\net8.0\Challenge Project.genruntimeconfig.cache
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Challenge Project\Challenge Project\obj\Debug\net8.0\ref\Challenge Project.dll

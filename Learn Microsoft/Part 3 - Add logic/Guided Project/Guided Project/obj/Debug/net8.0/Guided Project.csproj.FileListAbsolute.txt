@@ -1,0 +1,15 @@
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Guided Project\Guided Project\bin\Debug\net8.0\Guided Project.exe
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Guided Project\Guided Project\bin\Debug\net8.0\Guided Project.deps.json
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Guided Project\Guided Project\bin\Debug\net8.0\Guided Project.runtimeconfig.json
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Guided Project\Guided Project\bin\Debug\net8.0\Guided Project.dll
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Guided Project\Guided Project\bin\Debug\net8.0\Guided Project.pdb
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Guided Project\Guided Project\obj\Debug\net8.0\Guided Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Guided Project\Guided Project\obj\Debug\net8.0\Guided Project.AssemblyInfoInputs.cache
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Guided Project\Guided Project\obj\Debug\net8.0\Guided Project.AssemblyInfo.cs
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Guided Project\Guided Project\obj\Debug\net8.0\Guided Project.csproj.CoreCompileInputs.cache
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Guided Project\Guided Project\obj\Debug\net8.0\Guided Project.sourcelink.json
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Guided Project\Guided Project\obj\Debug\net8.0\Guided Project.dll
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Guided Project\Guided Project\obj\Debug\net8.0\refint\Guided Project.dll
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Guided Project\Guided Project\obj\Debug\net8.0\Guided Project.pdb
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Guided Project\Guided Project\obj\Debug\net8.0\Guided Project.genruntimeconfig.cache
+C:\Users\sosa1\Desktop\Codigo\c-sharp-practice\Part 3-Add Logic\Guided Project\Guided Project\obj\Debug\net8.0\ref\Guided Project.dll
