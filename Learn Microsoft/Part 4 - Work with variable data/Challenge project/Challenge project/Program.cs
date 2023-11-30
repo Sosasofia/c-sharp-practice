@@ -150,6 +150,10 @@ do
             }
 
             string[] dogCharacteristicArray = dogCharacteristic.Split(",");
+            for (int i = 0; i < dogCharacteristicArray.Length; i++)
+            {
+                dogCharacteristicArray[i] = dogCharacteristicArray[i].Trim();
+            }
             Array.Sort(dogCharacteristicArray);
 
             bool noMatchesDog = true;
@@ -178,7 +182,7 @@ do
                                 // #5 update "searching" message to show countdown 
                                 foreach (string icon in searchingIcons)
                                 {
-                                    Console.Write($"\rsearching our dog {ourAnimals[i, 3].Substring(10)} for {value.Trim()} {icon} {j.ToString()}");
+                                    Console.Write($"\rsearching our dog {ourAnimals[i, 3].Substring(10)} for {value} {icon} {j.ToString()}");
                                     Thread.Sleep(150);
                                 }
 
@@ -186,7 +190,7 @@ do
                             }
 
                             // #3a iterate submitted characteristic terms and search description for each term
-                            if (dogDescription.Contains(value.Trim()))
+                            if (dogDescription.Contains(value))
                             {
                                 // #3b update message to reflect term 
                                 // #3c set a flag "this dog" is a match
